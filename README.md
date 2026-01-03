@@ -39,4 +39,28 @@ A simple CLI-based To-Do List app built using Python.
 python todo.py
 ```
 
------
+# Task-4: Basic REST API (CRUD) using Flask
+
+This project is part of Owl AI – Hard Task 4.
+It demonstrates a RESTful API built using Flask with SQLite, supporting full CRUD (Create, Read, Update, Delete) operations.
+
+## 🚀 Features
+
+RESTful API design
+Full CRUD operations
+SQLite database integration
+Proper HTTP status codes
+JSON request & response handling
+Error handling for invalid requests
+
+## 🧰 Tech Stack
+
+Python 3.x
+Flask
+SQLite
+Postman / Browser / curl for testing
+
+## ▶️ How to Run
+```bash
+python app.py
+```
